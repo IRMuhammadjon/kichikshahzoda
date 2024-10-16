@@ -1,0 +1,14 @@
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\bin\Debug\net8.0\kichikshahzoda.exe
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\bin\Debug\net8.0\kichikshahzoda.deps.json
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\bin\Debug\net8.0\kichikshahzoda.runtimeconfig.json
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\bin\Debug\net8.0\kichikshahzoda.dll
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\bin\Debug\net8.0\kichikshahzoda.pdb
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.AssemblyInfoInputs.cache
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.AssemblyInfo.cs
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.csproj.CoreCompileInputs.cache
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.dll
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\refint\kichikshahzoda.dll
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.pdb
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.genruntimeconfig.cache
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\ref\kichikshahzoda.dll
