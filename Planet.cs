@@ -1,5 +1,3 @@
-using System.Data.SqlTypes;
-
 namespace kichikshahzoda;
 
 public struct Planet(Point position, int radius)
