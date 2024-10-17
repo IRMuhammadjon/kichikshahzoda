@@ -1,22 +1,33 @@
 ﻿using kichikshahzoda;
 
-Console.WriteLine("4 ta nuqtani kiriting:");
-var points = Console.ReadLine()?.Split(' ').Select(int.Parse).ToArray();
-if (points == null || points.Length != 4)
-    throw new ArgumentException("Noto'g'ri kiritish formati");
+int.TryParse(Console.ReadLine(), out int n);
 
-var prince = new Point(points[0], points[1]);
-var princess = new Point(points[2], points[3]);
+while(n -->0){
 
-Console.WriteLine("Sayyoralar sonini kiriting:");
-int planetCount = int.Parse(Console.ReadLine() ?? "0");
+var s = Console.ReadLine()?.Split(' ',StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray()??[];
 
-var planets = new Planet[planetCount];
+var prince = new Point(s[0],s[1]);
+var princess = new Point(s[2],s[3]);
 
-for (int i = 0; i < planetCount; i++)
-{
-    Console.WriteLine($"{i + 1}-sayyora pozitsiyasi va radiusini kiriting:");
-    planets[i] = new Planet(Console.ReadLine() ?? string.Empty);
+int.TryParse(Console.ReadLine(), out int planetCount);
+
+int count = 0;
+
+while(planetCount -->0){{
+
+var planet = new Planet(Console.ReadLine());
+
+if(planet.IsInside(prince) ^ planet.IsInside(princess)){
+    count++;
+    }
 }
 
-Console.WriteLine(Point.MinWayTrowPlanets(prince, princess, planets));
+Console.WriteLine(count);
+    
+}
+}
+
+
+
+
+

@@ -12,3 +12,4 @@ C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\refint\kichikshahzo
 C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.pdb
 C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.genruntimeconfig.cache
 C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\ref\kichikshahzoda.dll
+C:\Users\iskan\.cursor-tutor\kichikshahzoda\obj\Debug\net8.0\kichikshahzoda.sourcelink.json
